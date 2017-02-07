@@ -1,0 +1,9 @@
+Host github.com
+ HostName github.com
+ User ch710798472
+ IdentityFile ~/.ssh/id_rsa_github
+
+Host gitlab
+ HostName gitlab.alibaba-inc.com
+ User banmo.ch
+ IdentityFile ~/.ssh/id_rsa
